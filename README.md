@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello
+I am open to job offers. If you are interested in my open source projects, then I can quickly adapt them to your requirements or develop similar solutions for your tasks.
 
 <!--
 **drozhzhin-n-e/drozhzhin-n-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
