@@ -1,6 +1,8 @@
-### Hello
-I am open to job offers. If you are interested in my open source projects, then I can quickly adapt them to your requirements or develop similar solutions for your tasks.
+### Frontend Developer
+Angular · React · TypeScript · AI integrations
 
+I build production-ready frontend: UI libraries, embeddable widgets, 
+and AI-powered interfaces. 5+ years in commercial projects.
 <!--
 **drozhzhin-n-e/drozhzhin-n-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
